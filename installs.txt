@@ -1,0 +1,9 @@
+SQL Workbench - https://dev.mysql.com/downloads/workbench/
+MySQL - https://dev.mysql.com/downloads/installer/
+PHP-Storm - https://www.jetbrains.com/phpstorm/download/other.html
+C++ Redistributable - https://docs.microsoft.com/de-DE/cpp/windows/latest-supported-vc-redist?view=msvc-170
+Git - https://git-scm.com/download/win
+PHP - https://windows.php.net/download/
+
+decomment extension_dir and PDO
+check for port

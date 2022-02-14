@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d12024f-7413-4f85-9a09-210fab345c75" name="Default Changelist" comment="" />
+    <list default="true" id="3d12024f-7413-4f85-9a09-210fab345c75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/addPerson.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/Plain-PHP/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/description.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Plain-PHP/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Plain-PHP/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/lehrberufe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plain-PHP/search.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +51,12 @@
       <option name="presentableId" value="Default" />
       <updated>1644775997607</updated>
       <workItem from="1644776000462" duration="1359000" />
-      <workItem from="1644826399136" duration="1431000" />
+      <workItem from="1644826399136" duration="2143000" />
+      <workItem from="1644831162609" duration="3756000" />
+      <workItem from="1644838988278" duration="156000" />
+      <workItem from="1644839153136" duration="283000" />
+      <workItem from="1644839445669" duration="5924000" />
+      <workItem from="1644858091638" duration="4659000" />
     </task>
     <servers />
   </component>
@@ -47,22 +64,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="860" y="354" key="#CLI_Interpreters" timestamp="1644827801640">
+    <state x="860" y="354" key="#CLI_Interpreters" timestamp="1644839201750">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="860" y="354" key="#CLI_Interpreters/0.0.2560.1400/2560.169.1920.1040@0.0.2560.1400" timestamp="1644827801640" />
+    <state x="860" y="354" key="#CLI_Interpreters/0.0.2560.1400/2560.169.1920.1040@0.0.2560.1400" timestamp="1644839201750" />
     <state x="987" y="342" key="#PHP" timestamp="1644827552172">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="987" y="342" key="#PHP/0.0.2560.1400/2560.169.1920.1040@0.0.2560.1400" timestamp="1644827552172" />
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1644860931934">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.169.1920.1040@0.0.2560.1400" timestamp="1644860931934" />
     <state x="1059" y="454" key="FileChooserDialogImpl" timestamp="1644827793378">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1059" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.169.1920.1040@0.0.2560.1400" timestamp="1644827793378" />
-    <state x="781" y="344" key="SettingsEditor" timestamp="1644827808212">
+    <state x="806" y="346" key="SettingsEditor" timestamp="1644839202409">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/2560.169.1920.1040@0.0.2560.1400" timestamp="1644827808212" />
+    <state x="806" y="346" key="SettingsEditor/0.0.2560.1400/2560.169.1920.1040@0.0.2560.1400" timestamp="1644839202409" />
+    <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644842309732">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.169.1920.1040@0.0.2560.1400" timestamp="1644842309732" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1644826702805">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

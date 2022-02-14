@@ -1,0 +1,40 @@
+Installers:
+- Chrome
+- Git
+- MySQL Workbench
+- Java 11
+- NodeJS 16
+- MySQL 8
+- IntelliJ, WebStorm
+
+Backend:
+- Config
+- Database
+- Database Dao
+- Web Server
+- Session Management
+- Request Validation
+- CORS
+- Error Handling
+- Tests
+
+Frontend:
+- Stylesheet
+- Validation
+- Form to Json / Json to Form
+- Date / Time Picker
+- Loading spinner
+- Select with remote data
+- modals
+- data tables
+- buttons in data tables
+
+Project:
+- Run tests (from console) | gradlew test
+- Build Jar | gradlew jar farJar
+
+Preparations:
+- Docs list
+- Backend, Frontend, Project
+- Upload to Github
+- Try it

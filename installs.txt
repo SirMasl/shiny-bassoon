@@ -7,3 +7,5 @@ PHP - https://windows.php.net/download/
 
 decomment extension_dir and PDO
 check for port
+
+cdnjs.com - js libraries
